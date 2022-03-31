@@ -7,6 +7,8 @@ Jinja2==2.10.3
 MarkupSafe==1.1.1
 flask_material==0.1.1
 sklearn
+scikit-learn
+scipy
 joblib==0.17.0
 itsdangerous==2.0.1
 Werkzeug==0.15.5
